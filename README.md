@@ -1,12 +1,12 @@
 # VxWorks7-RISC-V
 
-Hi all,
+Hi,
 
-I wrote these codes for fun which add RISC-V arch and SIFIVE unleashed BSP to VxWorks 7.
+I wrote these codes just for fun and this add RISC-V arch and Sifive unleashed BSP to VxWorks 7.
 
-But because the license issue, I need to disccuss with WR IP department to see whether the codes can be opened to public.
+But, because of the license issue, codes can not be open-sourced, please contact Wind River if you are interested.
 
-(At last, codes can not be open-sourced because of the license issue. - -!)
+Thanks Wind River who gave me the great platform.
 
 Thanks @Jim-wilson who gave me many help in debugging tools.
 
